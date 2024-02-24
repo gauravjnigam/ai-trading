@@ -14,7 +14,7 @@ import (
 
 func main() {
 	// Replace with your API key and secret
-	apiKey := "AIzaSyCwW--D5rpE8_4Egnt6QP3FmG3JmUBAwzc"
+	apiKey := "<API-KEY>"
 
 	ctx := context.Background()
 	// Access your API key as an environment variable (see "Set up your API key" above)
