@@ -1,5 +1,6 @@
 ## Gemini ai chat example
 
+** Use your API-KEY before run below
 ### how to run 
 go run main.go
 
